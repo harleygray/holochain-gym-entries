@@ -1,0 +1,10 @@
+/home/harle/developer-exercises/1.basic/5.elements/exercise/target/wasm32-unknown-unknown/release/deps/lock_api-e2279f58ad41074e.rmeta: /home/harle/developer-exercises/.cargo/registry/src/github.com-1ecc6299db9ec823/lock_api-0.4.6/src/lib.rs /home/harle/developer-exercises/.cargo/registry/src/github.com-1ecc6299db9ec823/lock_api-0.4.6/src/mutex.rs /home/harle/developer-exercises/.cargo/registry/src/github.com-1ecc6299db9ec823/lock_api-0.4.6/src/remutex.rs /home/harle/developer-exercises/.cargo/registry/src/github.com-1ecc6299db9ec823/lock_api-0.4.6/src/rwlock.rs
+
+/home/harle/developer-exercises/1.basic/5.elements/exercise/target/wasm32-unknown-unknown/release/deps/liblock_api-e2279f58ad41074e.rlib: /home/harle/developer-exercises/.cargo/registry/src/github.com-1ecc6299db9ec823/lock_api-0.4.6/src/lib.rs /home/harle/developer-exercises/.cargo/registry/src/github.com-1ecc6299db9ec823/lock_api-0.4.6/src/mutex.rs /home/harle/developer-exercises/.cargo/registry/src/github.com-1ecc6299db9ec823/lock_api-0.4.6/src/remutex.rs /home/harle/developer-exercises/.cargo/registry/src/github.com-1ecc6299db9ec823/lock_api-0.4.6/src/rwlock.rs
+
+/home/harle/developer-exercises/1.basic/5.elements/exercise/target/wasm32-unknown-unknown/release/deps/lock_api-e2279f58ad41074e.d: /home/harle/developer-exercises/.cargo/registry/src/github.com-1ecc6299db9ec823/lock_api-0.4.6/src/lib.rs /home/harle/developer-exercises/.cargo/registry/src/github.com-1ecc6299db9ec823/lock_api-0.4.6/src/mutex.rs /home/harle/developer-exercises/.cargo/registry/src/github.com-1ecc6299db9ec823/lock_api-0.4.6/src/remutex.rs /home/harle/developer-exercises/.cargo/registry/src/github.com-1ecc6299db9ec823/lock_api-0.4.6/src/rwlock.rs
+
+/home/harle/developer-exercises/.cargo/registry/src/github.com-1ecc6299db9ec823/lock_api-0.4.6/src/lib.rs:
+/home/harle/developer-exercises/.cargo/registry/src/github.com-1ecc6299db9ec823/lock_api-0.4.6/src/mutex.rs:
+/home/harle/developer-exercises/.cargo/registry/src/github.com-1ecc6299db9ec823/lock_api-0.4.6/src/remutex.rs:
+/home/harle/developer-exercises/.cargo/registry/src/github.com-1ecc6299db9ec823/lock_api-0.4.6/src/rwlock.rs:
